@@ -1,0 +1,15 @@
+﻿{
+  "name": "GymBo.Bot",
+  "services": [
+    {
+      "type": "endpoint",
+      "name": "development",
+      "endpoint": "http://localhost:3978/api/messages",
+      "appId": "7916c5bc-dfe7-4fe9-8136-d4dc98bc732c",
+      "appPassword": "nssNJO512xqmrIQTG71##}~",
+      "id": "gymbo"
+    }
+  ],
+  "padlock": "",
+  "version": "2.0"
+}
